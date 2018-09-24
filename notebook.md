@@ -21,3 +21,9 @@ Week 4: 09/10/2018 - 09/16/2018
 * attended lecture on 09/14/2018
 * made pull requests on Github for the technology summaries assignment topics
 
+Week 5: 09/17/2018 - 09/23/2018
+===============================
+
+* attended lecture on 09/21/2018
+* installed Jabref and explored it's functionality.
+* began exploring content for on of the technologies - MRQL
