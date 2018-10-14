@@ -3,7 +3,7 @@ owner:
   firstname: "Sohan"
   lastname: "Rai"
   hid: "fa18-523-69"
-  community: "E534"
+  community: "i534"
 technologies:
   - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/polybase.md
   - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/hdf.md
