@@ -4,9 +4,8 @@ owner:
   lastname: "Rai"
   hid: "fa18-523-69"
   community: "E534"
-
 technologies:
-- url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/polybase.md
-- url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/hdf.md
-- url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/nwb.md
-- url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/mrql.md
+  - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/polybase.md
+  - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/hdf.md
+  - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/nwb.md
+  - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/mrql.md
