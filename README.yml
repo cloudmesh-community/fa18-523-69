@@ -9,3 +9,13 @@ technologies:
   - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/hdf.md
   - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/nwb.md
   - url: https://github.com/cloudmesh/technologies/tree/master/chapters/tech/mrql.md
+paper:
+  - title: "big data and streaming"
+    keyword: Streaming
+    url: https://github.com/cloudmesh-community/fa18-523-62/tree/master/paper
+    group: fa18-523-62 fa18-523-69
+project:
+  - title: "predicting EPL results based to tweets"
+    keyword: Tweets
+    url: https://github.com/cloudmesh-community/fa18-523-62/tree/master/project-report
+    group: fa18-523-62 fa18-523-69
