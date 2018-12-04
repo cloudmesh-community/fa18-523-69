@@ -17,7 +17,7 @@ paper:
     url: https://github.com/cloudmesh-community/fa18-523-62/blob/master/paper/paper.md
     group: fa18-523-62 fa18-523-69
 project:
-  - title: "predicting EPL results based to tweets"
+  - title: "predicting EPL results based on tweets"
     keyword: Tweets
     url: https://github.com/cloudmesh-community/fa18-523-62/blob/master/project-report/report.md
     group: fa18-523-62 fa18-523-69
