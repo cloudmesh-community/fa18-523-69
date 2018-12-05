@@ -71,7 +71,7 @@ Week 13: 11/12/2018 - 11/18/2018
 ================================
 * Working on the project report
 * Continued collecting tweets
-* Developed the code to combine the 2 data files and processing it
+* Developed the code to combine the 2 data files and perfroming data pre processing
 
 Week 14: 11/19/2018 - 11/25/2018
 ================================
